@@ -1,4 +1,5 @@
 # Ant Ecosystem Simulation
+![334](https://github.com/user-attachments/assets/456fcc57-f06f-416a-9f2b-4cfa41e9df08)
 
 This project simulates an ant ecosystem where ants and doodlebugs interact within a grid environment. The simulation models the behavior of different types of ants, including queen ants, worker ants, and male ants, as they move, reproduce, and survive in their habitat.
 
@@ -53,6 +54,7 @@ After running the simulation, you'll be prompted to enter the initial number of 
 - **Makefile:** Automates the build process for the project.
 
 ### UML
+![2](https://github.com/user-attachments/assets/a9c8ec1f-4f46-4000-b5ee-88ec4f4ca6d2)
 
 
 ## Contributing
